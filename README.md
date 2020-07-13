@@ -10,6 +10,4 @@ Step 4 - Choose the same column names from the different dataframes to append la
 
 Step 5 - Append the dataframes
 
-Step 6 - Make sure that your data sets are appended, as you wish to see them in the gsheets later
-
-Step 7 - Open the gsheet file you want to write your new data in and then insert the data with the set function
+Step 6 - Open the Google Sheet file you want to write your new data in and then insert the data with the set function
